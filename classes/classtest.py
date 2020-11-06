@@ -13,4 +13,5 @@ class Employee:
         self.last = last
         self.pay = pay
         self.email = first + "." + last + "@company.com"
-
+        
+        
